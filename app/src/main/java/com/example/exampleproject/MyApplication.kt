@@ -20,4 +20,3 @@ class MyApplication : Application() {
 }
 
 
-// Bentar bikin minuman

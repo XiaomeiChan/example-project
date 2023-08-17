@@ -8,22 +8,11 @@
     <string name="add_task">Add Task</string>
     <string name="due_date">Due date</string>
     <string name="delete_task">Delete Task</string>
-    <string name="title_activity_settings">Settings</string>
 
     <!-- Snackbar -->
     <string name="empty_task_message">Tasks cannot be empty</string>
     <string name="task_marked_complete">Task marked complete</string>
     <string name="task_marked_active">Task marked active</string>
-
-    <!-- Preference Titles -->
-    <string name="reminder_header">Reminder</string>
-
-    <!-- Notification -->
-    <string name="pref_key_notify">key_notification</string>
-    <string name="pref_notify_name">Notification</string>
-    <string name="pref_notify_summary">Daily reminder for nearest active task.</string>
-    <string name="notify_channel_name">Task Reminder</string>
-    <string name="notify_content">Due in %1$s.</string>
 
     <!-- Filter -->
     <string name="action_filter">filter</string>
